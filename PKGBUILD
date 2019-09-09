@@ -1,5 +1,5 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
-pkgname=tre-deploy-find
+pkgname=tre-deployment-find
 pkgver=1.1.0
 pkgrel=1
 pkgdesc="find previously deployed webapps and system images"
